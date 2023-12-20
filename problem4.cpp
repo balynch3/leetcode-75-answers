@@ -10,7 +10,6 @@ public:
                 flowerbed[flowerIndex] = 1;
             }
         }
-        cout << n << endl;
         return n<=0;
     }
 };
